@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigis07&layout=compact)](https://github.com/luigis07/github-readme-stats)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luigis07&show_icons=true" alt="luigis07" />
 </p>
