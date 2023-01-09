@@ -6,12 +6,12 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
    technologies: {
       frontEnd: {
-         //js: ["React"],
+         js: ["React"],
          css: ["Bootstrap"]
       },
       backEnd: {
          java: ["Spring", "Hibernate", "JSF"],
-         //js: ["Node"]
+         js: ["Node"]
       },
       databases: ["Oracle", "mySQL", "SQLServer"],
       mobile: ["Android"]
