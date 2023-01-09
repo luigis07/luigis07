@@ -3,17 +3,16 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   code: [Java, Javascript, Typescript, HTML, CSS, Python, SQL],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["jQuery", "Ajax"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring", "Hibernate", "JSF"],
-         js: ["Node"]
+         java: ["Spring", "Thymeleaf", "JSF"]
       },
-      databases: ["Oracle", "mySQL", "SQLServer"],
+      databases: ["Oracle", "MySQL", "SQLServer", "Hibernate", "MongoDB", "SQLite"],
       mobile: ["Android"]
    },
    currentOccupation: ["Open for job opportunities"],
