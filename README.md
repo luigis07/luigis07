@@ -6,13 +6,14 @@ const aboutMe = {
    code: [Java, Javascript, Typescript, HTML, CSS, Python, SQL],
    technologies: {
       frontEnd: {
-         js: ["jQuery", "Ajax"],
-         css: ["Bootstrap"]
+         js: ["jQuery", "Ajax", "React", "Vue.js"],
+         css: ["Bootstrap", "Sass", "Tailwind CSS"]
       },
       backEnd: {
-         java: ["Spring", "Thymeleaf", "JSF"]
+         java: ["Spring", "Thymeleaf", "JSF", "Hibernate"],
+         nodejs: ["Node.js", "Express.js"]
       },
-      databases: ["Oracle", "MySQL", "SQLServer", "Hibernate", "MongoDB", "SQLite"],
+      databases: ["Oracle", "MySQL", "SQLServer", "MongoDB", "SQLite"],
       mobile: ["Android"]
    },
    currentOccupation: ["Open for job opportunities"],
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
