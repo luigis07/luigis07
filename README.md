@@ -13,8 +13,9 @@ const aboutMe = {
          java: ["Spring", "Thymeleaf", "JSF", "Hibernate"],
          nodejs: ["Node.js", "Express.js"]
       },
-      databases: ["Oracle", "MySQL", "SQLServer", "MongoDB", "SQLite"],
-      mobile: ["Android"]
+      databases: ["Oracle", "MySQL", "SQLServer", "MongoDB", "SQLite", "PostgreSQL"],
+      mobile: ["Android", "Flutter"],
+      devOps: ["Docker", "Git"]
    },
    currentOccupation: ["Open for job opportunities"],
    challenge: "30 days of Python",
