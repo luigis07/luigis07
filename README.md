@@ -70,11 +70,9 @@ Here are some ideas to get you started:
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigis07&layout=compact)](https://github.com/luigis07/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luigis07&layout=compact)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luigis07&show_icons=true" alt="luigis07" />
-</p>
+![Luis's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luigis07&show_icons=true)
 
 <h3 align="left">Support:</h3>
 <p>
