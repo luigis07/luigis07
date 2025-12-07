@@ -142,6 +142,45 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<!-- ================= TESTING ================= -->
+<h4>Testing</h4>
+<p align="left">
+  <a href="https://junit.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="JUnit" width="40" height="40"/>
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/10916846?s=200&v=4" alt="Mockito" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= BUILD TOOLS ================= -->
+<h4>Build Tools</h4>
+<p align="left">
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= ARCHITECTURE ================= -->
+<h4>Architecture</h4>
+<p align="left">
+  MVC • REST • Microservices
+</p>
+
+<!-- ================= VERSION CONTROL ================= -->
+<h4>Version Control</h4>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- ================= API & INTEGRATION ================= -->
+<h4>API & Integration</h4>
+<p align="left">
+  REST • SOAP • JSON • XML
+</p>
+
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luigis07&layout=compact)
 
