@@ -94,12 +94,6 @@ Here are some ideas to get you started:
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   </a>
-  <a href="https://projects.eclipse.org/projects/ee4j.jsf" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/javaee/javaee-icon.svg" alt="JSF" width="40" height="40"/>
-  </a>
-  <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/thymeleaf/thymeleaf-icon.svg" alt="Thymeleaf" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   </a>
