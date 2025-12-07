@@ -1,5 +1,7 @@
 ### Hi, I'm Luis Gonzalez 👋
 
+I’m a backend developer specialized in **Java + Spring Boot**, currently expanding my skills into **React + TypeScript** to become a strong full-stack developer.
+
 ```javascript
 const aboutMe = {
   pronouns: "he/him",
