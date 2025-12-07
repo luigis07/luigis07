@@ -2,23 +2,23 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Java, Javascript, Typescript, HTML, CSS, Python, SQL],
-   technologies: {
-      frontEnd: {
-         js: ["jQuery", "Ajax", "React", "Vue.js"],
-         css: ["Bootstrap", "Sass", "Tailwind CSS"]
-      },
-      backEnd: {
-         java: ["Spring", "Thymeleaf", "JSF", "Hibernate"],
-         nodejs: ["Node.js", "Express.js"]
-      },
-      databases: ["Oracle", "MySQL", "SQLServer", "MongoDB", "SQLite", "PostgreSQL"],
-      mobile: ["Android", "Flutter"],
-      devOps: ["Docker", "Git"]
-   },
-   currentOccupation: ["Open for job opportunities"],
-   challenge: "30 days of Python",
+  pronouns: "he/him",
+  code: ["Java", "JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"],
+  technologies: {
+    frontEnd: {
+      js: ["jQuery", "Ajax", "React", "Vue"],
+      css: ["Bootstrap", "Sass", "Tailwind"]
+    },
+    backEnd: {
+      java: ["Spring", "Thymeleaf", "JSF", "Hibernate"],
+      nodejs: ["Node.js", "Express"]
+    },
+    databases: ["Oracle", "MySQL", "SQL Server", "MongoDB", "SQLite", "PostgreSQL"],
+    mobile: ["Android", "Flutter"],
+    devOps: ["Docker", "Git"]
+  },
+  currentOccupation: ["Open for job opportunities"],
+  challenge: "Learning React + TypeScript",
 };
 ```
 
